@@ -6,7 +6,7 @@ import java.util.ListIterator;
 
 public class LinkedListIterators {
     
-    public static void main (String[] args) {
+    public static void linkedListIterators (String[] args) {
         LinkedList<String> linked = new LinkedList();
         linked.add("1st element");
         linked.add("2nd element");
@@ -20,7 +20,7 @@ public class LinkedListIterators {
         // for (int i=0; i<linked.size(); i++) {
         //    System.out.println(linked.get(i));
         //}
-        LinkedListIterators.changeElements(linked);
+        
         LinkedListIterators.writeReversed(linked);
         LinkedListIterators.removeElements(linked);
         LinkedListIterators.printElements(linked);
