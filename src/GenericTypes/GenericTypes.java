@@ -14,18 +14,18 @@ public class GenericTypes {
         
         // just for loop
         for (int i=0; i<arr.size(); i++){
-            System.out.println(arr.get(i));
+            //System.out.println(arr.get(i));
         }
         
         // enhanced for loop
         for (String str : arr) {
-            System.out.println(str);
+            //System.out.println(str);
         }
         
         // use my own generic class
         Just<String> anotherVariable = new Just();
         anotherVariable.setValue("something");
-        System.out.println(anotherVariable.gimme());
+        //System.out.println(anotherVariable.gimme());
         
     }
 }
