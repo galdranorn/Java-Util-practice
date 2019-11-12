@@ -1,10 +1,10 @@
-package GenericTypes;
+package generictypes;
 
 import java.util.ArrayList;
 
 public class GenericTypes {
 
-    public static void main(String[] args) {
+    public static void genericTypes(String[] args) {
         
         // using ArrayList generic class
         ArrayList<String> arr = new ArrayList();

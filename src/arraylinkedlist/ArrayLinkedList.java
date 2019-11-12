@@ -3,8 +3,8 @@ package arraylinkedlist;
 import java.util.LinkedList;
 import java.util.ArrayList;
 
-public class Main {
-    public static void main (String[] args) {
+public class ArrayLinkedList {
+    public static void arrayLinkedList (String[] args) {
         ArrayList arr = new ArrayList(); // lista tablicowa
         // w liście tablicowej elementy są jeden po drugim
         // + szybki dostęp do zawartości

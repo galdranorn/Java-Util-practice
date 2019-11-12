@@ -18,7 +18,7 @@ class SubClass extends SuperClass {
 
 public class WildCards {
     
-    public static void main(String[] args) {
+    public static void wildCards(String[] args) {
         
         List<String> strList = new ArrayList<String>();
         

@@ -36,7 +36,7 @@ class Square extends Figure {
 }
 
 public class GenericMethods {
-    public static void main (String[] args) {
+    public static void genericMethods (String[] args) {
         Figure figure1 = new Circle();
         Figure figure2 = new Square();
         
