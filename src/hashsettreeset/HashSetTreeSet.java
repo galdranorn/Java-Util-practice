@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 public class HashSetTreeSet {
-    public static void main (String[] args) {
+    public static void hashSetTreeSet (String[] args) {
         long mili;
         long totalMili = 0;
         
