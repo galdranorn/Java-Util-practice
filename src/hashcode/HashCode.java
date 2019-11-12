@@ -31,7 +31,7 @@ class Element
 
 public class HashCode
 {
-    public static void main(String[] args) 
+    public static void hashCode(String[] args) 
     {
         Element a = new Element(47);
         Element b = new Element(15);
